@@ -17,4 +17,4 @@ if you dont put the spelling for a game or website correct it will show the 404 
 
 ## how-to
 change the space after "/" to example above (https://gman66723.github.io/ubhub.xyz/)
-```for example 'https://gman66723.github.io/ubhub.xyz/g/(any game b1-b?)
+```for example 'https://gman66723.github.io/ubhub.xyz/g/(any game b1-b?)```
